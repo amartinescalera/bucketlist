@@ -1,2 +1,2 @@
 # bucketlist
-[] Zero to AI => https://zerotoai.com/
+[ ] Zero to AI => https://zerotoai.com/
