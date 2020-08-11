@@ -1,5 +1,4 @@
 # bucketlist technical books
-
 - [ ] Zero to AI => https://zerotoai.com/
 - [ ] kafka => https://www.manning.com/books/kafka-in-action
 - [ ] Pragmatic Programmer => https://www.amazon.es/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1Q8FK51RSV05O&dchild=1&keywords=el+programador+pragmatico&qid=1596926839&s=digital-text&sprefix=el+programad%2Cdigital-text%2C172&sr=1-2
